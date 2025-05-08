@@ -119,7 +119,7 @@ const Sidebars = () => {
                   sx={{ m: "5px 0 0 0" }}
                 >
                   {" "}
-                  Arlette Tchinda
+                  Arlette Miss
                 </Typography>
                 <Typography variant="h10" color={colors.grey[100]}>
                   RH Brassaf
